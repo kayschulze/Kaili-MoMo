@@ -8,6 +8,11 @@ h1 {
   color: orange;
 }
 
+ul.intro {
+  text-align: left;
+  font-size: 15px;
+}
+
 ul {
   color: #85929E;
   list-style-type: none;
