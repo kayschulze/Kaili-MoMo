@@ -8,6 +8,30 @@ h1 {
   color: orange;
 }
 
+#purple {
+  background: purple;
+}
+
+#yellow {
+  background: yellow;
+}
+
+#original-color {
+  background: pink;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.original-color {
+  background-color: pink;
+}
+
 ul.intro {
   text-align: left;
   font-size: 15px;
